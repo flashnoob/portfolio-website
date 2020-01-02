@@ -9,7 +9,7 @@ html {
     margin: 30px 0 0 0;
 }
 .has-bg-image {
-    background-image: url('../images/cover11.JPG');
+    background-image: url('../images/cover11.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -51,4 +51,6 @@ a.shine:hover {
   }
 
 
-  
+  .timeline-header{
+      margin-top: 10px;
+  }

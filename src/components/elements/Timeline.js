@@ -4,9 +4,9 @@ import Resume from "../../resume.json"
 
 function Timeline() {
     return(
-        <div className="timeline is-centered">
-            <header className="timeline-header">
-                <span className="tag is-medium is-dark">{new Date().getFullYear()}</span>
+        <div className="timeline is-centered has-background-grey">
+            <header className="timeline-header ">
+                <span className="tag is-medium is-dark ">{new Date().getFullYear()}</span>
             </header>
             <div className="timeline-item">
                 <div className="timeline-marker is-success"></div>
