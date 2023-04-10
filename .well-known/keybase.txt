@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sachinkotian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sachinkotian.com
+  * I am sachinkotian (https://keybase.io/sachinkotian) on keybase.
+  * I have a public key with fingerprint CE32 B902 0A10 3655 8C96  DB9E D729 F595 976A F400
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010179b33c648acc6c799a4c6da201e27a29ff419dc6238a2ff7f0d64d9cc07527610a",
+      "fingerprint": "ce32b9020a1036558c96db9ed729f595976af400",
+      "host": "keybase.io",
+      "key_id": "d729f595976af400",
+      "kid": "010179b33c648acc6c799a4c6da201e27a29ff419dc6238a2ff7f0d64d9cc07527610a",
+      "uid": "0153611a1ea4389340f9d8626f6d5c19",
+      "username": "sachinkotian"
+    },
+    "service": {
+      "hostname": "sachinkotian.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1681111023,
+  "expire_in": 157680000,
+  "prev": "83220a8fbc7b2ce26494ce54bead45ef06eb5fd71077d584157cab6ab8420f32",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJrSBVBFMevZYWWGPUlTXssFEkis7O7s7u3QII0SgiMShTrMjsze93U
+3eu9q/ngFhQkYQ97YC/JIhUsqLRICLQMtRcRvQgSjAyVRNSCPinUrNg3P3a+DDPn
+f37zPzOnN2GhLz6m4MnGDfVjdVdjXvc0lfuo1DlZIxgOrRL8NUIxm11YCWURN1Bs
+UcEvABGIqm5IEkGyhglBRNV1LBNEMQQigyqGumnKok4JgpKGoWmqJqBIpjohQFWg
+ikSAhXTBtOwgC4fClu1yLGESNHQAARaBhBRFIzqihs6oynGKrugqwqYMAC8sciJe
+BTdn4AjLsBx+xjeBWXvz6P+z7/I5nCIhUcQiw7Kk6ZIMTJ1qCCITUYWIuieMsLCN
+SxlXRzApsuxix7WwLUTTBZ6psAjzHtfrZh5VBnFKOSMUdlyHOCU8W+S6oYjfq3ar
+Qp78MDMCc6CAYdmUvyevqGDhiOXYgl/kSuJaHllEmsgDQCldYJUhK8wClqdQVKQB
+Ht49rIIjNQnyH9BMg6gGJAwiWZcJU2SDYSorzASIGYpJVRGoKlU0mRMINhA2NBkC
+U4KC11qZ7Qh+yG3ioNeUFbSxWx5mQvTZ08JYX0y8b/GiBd6c+eLjlv+bvq2DS/7s
+Hnmv/D6S2Njc8PbjdHtn/3hXtxu3tvJGzqGm8UZwe+d028HqU3vKyf6G6thmcepo
+6PvNyYRjAw9O9u14tKs2taC6IlexjGePrMquyebuTec7ll3I7kt/ntd2uc7MN/ed
+6W0aHe4f+3o3L3mqNfNS/cP6FTjamXTtU+7CArk9/85MSlswzje08oDy+4TUkpyZ
+NTOaOzDWmnO9NnEwmNG7mqb+YIvWfbjSVOpL61O2LdhbGHt+ybcXaXu6iwdy+1Ob
+18OE69HPmb+yJs51JF7pT9kcWjq65tWbJJsN3z/d83Oi0fe4t4WtErWXwZSR7WW3
+9KGa6NnUL9nXgsfvXdxybubdX1sQRvc=
+=Ep5v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sachinkotian
+
+==================================================================
